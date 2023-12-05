@@ -42,7 +42,7 @@ Ensure you have the following software installed:
 1. Clone the repository:
 
    ```
-    git clone https://github.com/your-username/express-api.git
+    git clone https://github.com/NikhilKalloli/Express_API.git
    ```
 
 2. Navigate to the project directory:
