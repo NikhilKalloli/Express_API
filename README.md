@@ -47,7 +47,7 @@ Ensure you have the following software installed:
 
 2. Navigate to the project directory:
     ```
-    cd express-api
+    cd Express_API
     ```
 3. Install dependencies:
     ```
@@ -59,7 +59,8 @@ Ensure you have the following software installed:
     ```
 
 ## Usage
-The API provides endpoints for managing posts. You can use tools like Postman or curl to interact with the API.   
+The API provides endpoints for managing posts. You can use tools like Postman or curl to interact with the API. 
+Hosted url of API is [here](https://my-api-tjit.onrender.com)
 
 # API Endpoints
 
