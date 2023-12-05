@@ -61,7 +61,7 @@ Ensure you have the following software installed:
 ## Usage
 The API provides endpoints for managing posts. You can use tools like Postman or curl to interact with the API. 
 Hosted url of API is [here](https://my-api-tjit.onrender.com)  
-**Note** Send requests only to the configured endpoints. 
+**Note:** Send requests only to the configured endpoints. 
 
 # API Endpoints
 
