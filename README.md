@@ -1,6 +1,7 @@
 # Express API
 
 This project is a simple Express.js API that provides CRUD (Create, Read, Update, Delete) operations for a collection of posts.
+**Note:** This API is created for learning purposes and does not use any databases. It has an array of posts containing three static posts.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -41,16 +42,16 @@ Ensure you have the following software installed:
 1. Clone the repository:
 
    ```
-        git clone https://github.com/your-username/express-api.git
+    git clone https://github.com/your-username/express-api.git
    ```
 
 2. Navigate to the project directory:
     ```
-        cd express-api
+    cd express-api
     ```
 3. Install dependencies:
     ```
-        npm install
+    npm install
     ```
 4. Start the server:
     ```
@@ -80,9 +81,7 @@ For detailed information on request and response formats, refer to the code comm
 
 Contributions are welcome! If you have any improvements or new features to suggest, please create a pull request.
 
-
-
-Enjoy interacting with the clone! If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/Express_API/issues).
+If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/Express_API/issues).
 
 
 ## License
