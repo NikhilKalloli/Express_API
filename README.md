@@ -12,7 +12,7 @@ This project is a simple Express.js API that provides CRUD (Create, Read, Update
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
-- [Connect](#🔗-connect-with-me)
+- [Connect](#connect-with-me)
 - [Feedback](#feedback)
 
 ## Introduction
@@ -90,7 +90,7 @@ Enjoy interacting with the clone! If you have any questions or issues, feel free
 This project is licensed under the [MIT License](LICENSE).
 
 
-## 🔗 Connect with Me
+## Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
